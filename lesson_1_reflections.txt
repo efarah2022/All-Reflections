@@ -1,0 +1,10 @@
+It helped because we could easily + quickly find the differences/errors in our code.
+Looking at different versions of the history can help you see 1) how the code has progressed and 2) where your errors/flaws are.
+Pros: You can choose when to save/how big or small your changes and commits are. Cons: If you forget to save your work, a lot of valuable code could be lost forever.
+By saving multiple related files at once, you can instantly test each version from any save time. Versus having to find each bersion separately and sometimes seeing them in an unorganized way.
+You can use git log to see all previous saves of your file. Then you can compare two files by using git diff (i.e. what was added/subtracted).
+It would make me more confident because even if I made a mistae, it would be fairly easy to check/correct/find the error.
+I am going to use git for collaborating on school projects and double checking my code for mistakes/major changes
+
+When you initialize a repository, you can begin saving many different versions of the same code.
+The staging area is like a temporary workspace that is only used to create commits. It is useful because you can use it quickly without needing to always make a new workspace.
