@@ -8,3 +8,8 @@ I am going to use git for collaborating on school projects and double checking m
 
 When you initialize a repository, you can begin saving many different versions of the same code.
 The staging area is like a temporary workspace that is only used to create commits. It is useful because you can use it quickly without needing to always make a new workspace.
+By using the staging area, you can control which files get saved to the commit.
+Branches would be useful if you want to use a test case or if you would like to create a slightly altered version of the code/game.
+Diagrams can help because you can easily see which commits are most useful as well as where they are in terms of the other commits.
+By merging two branches, you are combining all of the versions from both of the branches, which the diagram showcases by rejoining both of the branches.
+By merging manually, you can choose when to/how to merge your commits/branches. However, a con wuld be that you actually have to do it yourself.
